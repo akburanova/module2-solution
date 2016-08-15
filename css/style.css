@@ -11,6 +11,11 @@ section{
 	border: 1px solid black;
 	height:400px;
 	font-style: italic;
+	background-color: lightblue;
+}
+
+#section2{
+	overflow: auto;
 }
 
 #pagewrap{
@@ -19,19 +24,7 @@ height:100%;
 margin:0px;
 padding:1%;
 border:0px;
-}
-
-#section1{
-	background-color: lightpink;
-}
-
-#section2{
-	background-color: lightblue;
-	overflow:auto;
-}
-
-#section3{
-	background-color: lightgreen;
+background-color: white;
 }
 
 pre{
