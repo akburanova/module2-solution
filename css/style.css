@@ -53,6 +53,19 @@ pre{
 	text-align: center;
 }
 
+#title1{
+	background-color: purple;
+}
+
+#title2{
+	background-color: yellow;
+}
+
+#title3{
+	background-color:teal;
+}
+
+
 @media(min-width: 992px){
 	section{
 	position:relative;
@@ -83,6 +96,6 @@ pre{
 @media(max-width: 767px){
 	section{
 		width:100%;
-		margin:1%;
+		margin:2%;
 	}
 }
